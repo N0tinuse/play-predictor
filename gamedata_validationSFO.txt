@@ -1,0 +1,285 @@
+Quarter,Time,Down,ToGo,Location,Detail,CHI,SFO,EPB,EPA
+,,,,,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+1,14:55,1,10,SFO 18,Colin Kaepernick pass complete short left to Mario Manningham for 8 yards. Penalty on Chris Conte: Unnecessary Roughness 15 yards,0,0,0.04,1.66
+1,14:23,1,10,SFO 41,Frank Gore right end for 1 yard (tackle by Tim Jennings),0,0,1.66,1.26
+1,13:46,2,9,SFO 42,Colin Kaepernick pass complete deep left to Vernon Davis for 22 yards (tackle by Major Wright),0,0,1.26,3.18
+1,13:17,1,10,CHI 36,Frank Gore up the middle for 1 yard (tackle by Julius Peppers and Brian Urlacher),0,0,3.18,2.77
+1,12:40,2,9,CHI 35,Colin Kaepernick pass complete short right to Vernon Davis for 12 yards (tackle by Charles Tillman and Lance Briggs),0,0,2.77,4.04
+1,11:57,1,10,CHI 23,Kendall Hunter right end for 6 yards (tackle by Major Wright),0,0,4.04,4.38
+1,11:24,2,4,CHI 17,Colin Kaepernick pass complete short left to Kyle Williams for 3 yards (tackle by Charles Tillman),0,0,4.38,4.28
+1,10:43,3,1,CHI 14,Colin Kaepernick pass incomplete short right intended for Vernon Davis,0,0,4.28,2.66
+1,10:37,4,1,CHI 14,David Akers 32 yard field goal good,0,3,2.66,3
+1,10:32,,,SFO 35,David Akers kicks off 65 yards touchback,0,3,0,0.28
+1,8:30,1,10,SFO 37,Colin Kaepernick pass complete short left to Delanie Walker for 9 yards (tackle by Major Wright),0,3,1.4,2.07
+1,7:52,2,1,SFO 46,Frank Gore up the middle for -6 yards (tackle by Stephen Paea and Brian Urlacher),0,3,2.07,0.56
+1,7:08,3,7,SFO 40,Colin Kaepernick pass complete deep right to Kyle Williams for 57 yards (tackle by Chris Conte),0,3,0.56,6.51
+1,6:19,1,3,CHI 3,Colin Kaepernick pass complete short right to Vernon Davis for 3 yards touchdown,0,9,6.51,7
+1,6:19,,,,David Akers kicks extra point good,0,10,0,0
+1,6:14,,,SFO 35,David Akers kicks off 68 yards returned by Devin Hester for 22 yards (tackle by Tavares Gooden),0,10,0,0.15
+1,1:40,1,10,SFO 4,Frank Gore right guard for 13 yards (tackle by Chris Conte),0,10,-0.38,-0.06
+1,0:54,1,10,SFO 17,Colin Kaepernick pass complete short left to Randy Moss for 12 yards (tackle by Charles Tillman),0,10,-0.06,0.87
+1,0:15,1,10,SFO 29,Frank Gore left tackle for 7 yards (tackle by Julius Peppers),0,10,0.87,1.27
+Quarter,Time,Down,ToGo,Location,Detail,CHI,SFO,EPB,EPA
+,,,,,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,3,SFO 36,Colin Kaepernick pass complete deep left to Vernon Davis for 32 yards (tackle by Chris Conte),0,10,1.27,3.45
+2,14:16,1,10,CHI 32,Frank Gore right guard for 13 yards (tackle by Major Wright),0,10,3.45,4.31
+2,13:38,1,10,CHI 19,Colin Kaepernick pass incomplete short left intended for Randy Moss,0,10,4.31,3.75
+2,13:33,2,10,CHI 19,Colin Kaepernick pass incomplete deep left intended for Delanie Walker. Penalty on Major Wright: Defensive Holding 5 yards (no play),0,10,3.75,4.65
+2,13:28,1,10,CHI 14,Frank Gore right end for no gain (tackle by Tim Jennings),0,10,4.65,4
+2,12:47,2,10,CHI 14,Kendall Hunter up the middle for 14 yards touchdown,0,16,4,7
+2,12:47,,,CHI 2,David Akers kicks extra point good. Penalty on Mike Iupati: False Start 5 yards (no play),0,16,0,0
+2,12:47,,,CHI 7,David Akers kicks extra point good,0,17,0,0
+2,12:40,,,SFO 35,David Akers kicks off 65 yards returned by Devin Hester for 26 yards (tackle by Perrish Cox). Penalty on C.J. Spillman: Unnecessary Roughness 15 yards,0,17,0,1.66
+2,11:19,1,10,CHI 44,Frank Gore up the middle for 14 yards (tackle by Chris Conte),0,17,2.65,3.58
+2,10:40,1,10,CHI 30,Frank Gore up the middle for 3 yards (tackle by Tim Jennings and Stephen Paea),0,17,3.58,3.44
+2,10:03,2,7,CHI 27,,0,17,3.44,2.21
+2,9:14,3,11,CHI 31,Colin Kaepernick pass complete short right to Michael Crabtree for 20 yards (tackle by Tim Jennings),0,17,2.21,4.84
+2,8:36,1,10,CHI 11,Frank Gore right end for -4 yards (tackle by Brian Urlacher),0,17,4.84,3.56
+2,7:49,2,14,CHI 15,Colin Kaepernick right end for 3 yards (tackle by Brian Urlacher),0,17,3.56,3.11
+2,7:12,3,11,CHI 12,Colin Kaepernick sacked by Israel Idonije and Corey Wootton for -7 yards,0,17,3.11,2.18
+2,6:37,4,18,CHI 19,David Akers 37 yard field goal good,0,20,2.18,3
+2,6:32,,,SFO 35,David Akers kicks off 55 yards returned by Devin Hester for 21 yards (tackle by Bruce Miller),0,20,0,1
+2,4:23,1,10,SFO 34,Colin Kaepernick pass complete short right to Kendall Hunter for 3 yards (tackle by Charles Tillman),0,20,1.2,1.06
+2,3:44,2,7,SFO 37,Frank Gore left guard for 3 yards (tackle by Nick Roach),0,20,1.06,0.76
+2,3:01,3,4,SFO 40,Colin Kaepernick up the middle for 3 yards (tackle by Lance Briggs),0,20,0.76,-0.52
+2,2:41,4,1,SFO 43,Andy Lee punts 46 yards fair catch by Devin Hester,0,20,-0.52,0.37
+2,1:17,1,10,SFO 38,Colin Kaepernick pass complete short left to Vernon Davis for 3 yards (tackle by Lance Briggs),0,20,1.47,1.33
+2,1:10,2,7,SFO 41,Frank Gore up the middle for 5 yards (tackle by Kelvin Hayden),0,20,1.33,1.29
+2,0:52,3,2,SFO 46,Colin Kaepernick pass incomplete short left intended for Michael Crabtree (defended by Charles Tillman),0,20,1.29,-0.32
+2,0:52,4,2,SFO 46,Andy Lee punts 41 yards returned by Devin Hester for 10 yards (tackle by Dashon Goldson). Penalty on Blake Costanzo: Offensive Holding 10 yards,0,20,-0.32,0.38
+,,,,,End of Half,0,20,0.75,0
+Quarter,Time,Down,ToGo,Location,Detail,CHI,SFO,EPB,EPA
+,,,,,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,SFO 35,David Akers kicks off 65 yards touchback,0,20,0,0.28
+3,13:13,1,10,SFO 38,Frank Gore left end for 11 yards (tackle by Nick Roach),0,20,1.47,2.19
+3,12:29,1,10,SFO 49,Colin Kaepernick pass complete short left to Mario Manningham for 37 yards (tackle by Major Wright),0,20,2.19,4.65
+3,11:58,1,10,CHI 14,Frank Gore left guard for 4 yards (tackle by Brian Urlacher),0,20,4.65,4.71
+3,11:21,2,6,CHI 10,Colin Kaepernick pass incomplete short left intended for Delanie Walker,0,20,4.71,3.82
+3,11:12,3,6,CHI 10,Colin Kaepernick pass complete short left to Michael Crabtree for 10 yards touchdown,0,26,3.82,7
+3,11:12,,,,David Akers kicks extra point good,0,27,0,0
+3,11:05,,,SFO 35,David Akers kicks off 69 yards returned by Devin Hester for 30 yards (tackle by Bruce Miller),0,27,0,0.67
+3,3:37,1,10,SFO 16,Kendall Hunter left end for 8 yards (tackle by Major Wright),7,27,-0.14,0.55
+3,2:55,2,2,SFO 24,Colin Kaepernick pass incomplete deep left intended for Vernon Davis,7,27,0.55,-0.32
+3,2:48,3,2,SFO 24,Colin Kaepernick pass complete short right to Michael Crabtree for 1 yard (tackle by Charles Tillman),7,27,-0.32,-1.7
+3,1:48,4,1,SFO 25,Andy Lee punts 47 yards returned by Devin Hester for -9 yards (tackle by Tramaine Brock),7,27,-1.7,-0.15
+3,0:11,1,10,CHI 37,Colin Kaepernick right end for 5 yards (tackle by Chris Conte),7,27,3.12,3.25
+Quarter,Time,Down,ToGo,Location,Detail,CHI,SFO,EPB,EPA
+,,,,,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,2,5,CHI 32,Frank Gore right tackle for 1 yard (tackle by Tim Jennings),7,27,3.25,2.68
+4,14:17,3,4,CHI 31,Frank Gore up the middle for 8 yards (tackle by Major Wright),7,27,2.68,4.04
+4,13:34,1,10,CHI 23,Colin Kaepernick pass incomplete deep right intended for Delanie Walker (defended by Nick Roach),7,27,4.04,3.5
+4,13:27,2,10,CHI 23,Kendall Hunter right end for -2 yards (tackle by Lance Briggs and Brian Urlacher),7,27,3.5,2.54
+4,12:41,3,12,CHI 25,Colin Kaepernick pass complete short middle to Vernon Davis for 11 yards (tackle by Major Wright),7,27,2.54,2.66
+4,11:51,4,1,CHI 14,David Akers 32 yard field goal good,7,30,2.66,3
+4,11:46,,,SFO 35,David Akers kicks off 68 yards returned by Devin Hester for 27 yards (tackle by Chris Culliver). Devin Hester fumbles (forced by Chris Culliver) recovered by Sherrick McManis at CHI-26,7,30,0,0.67
+4,9:26,1,10,SFO 37,Kendall Hunter left tackle for 1 yard (tackle by Charles Tillman and Brian Urlacher),7,32,1.4,0.99
+4,8:45,2,9,SFO 38,Colin Kaepernick pass incomplete deep right intended for Michael Crabtree,7,32,0.99,0.3
+4,8:38,3,9,SFO 38,Frank Gore up the middle for 4 yards (tackle by Israel Idonije),7,32,0.3,-0.59
+4,7:44,4,5,SFO 42,Andy Lee punts 54 yards returned by Devin Hester for 4 yards (tackle by Navorro Bowman),7,32,-0.59,0.38
+4,2:18,1,10,SFO 45,Anthony Dixon left tackle for 4 yards (tackle by Corey Wootton),7,32,1.93,1.92
+4,1:58,2,6,SFO 49,Anthony Dixon left tackle for 1 yard (tackle by Amobi Okoye and Charles Tillman),7,32,1.92,1.36
+4,1:31,3,5,50,Anthony Dixon right end for 1 yard (tackle by Lance Briggs),7,32,1.36,0
+4,0:28,4,4,CHI 49,Penalty on J.T. Thomas: Neutral Zone Infraction 5 yards (no play),7,32,0,2.65
+4,0:28,1,10,CHI 44,Colin Kaepernick kneels for 1 yard,7,32,2.65,2.25
+Quarter,Time,Down,ToGo,Location,Detail,SFO,NOR,EPB,EPA
+,,,,,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+1,15:00,,,SFO 35,David Akers kicks off 70 yards returned by Travaris Cadet for 31 yards (tackle by Bruce Miller),0,0,0,0.67 
+1,13:22,1,10,SFO 29,Frank Gore left guard for 2 yards (tackle by Jonathan Vilma and Roman Harper),0,0,0.87,0.6
+1,12:52,2,8,SFO 31,Kendall Hunter left end for 4 yards (tackle by Malcolm Jenkins and Sedrick Ellis),0,0,0.6,0.43
+1,12:05,3,4,SFO 35,Colin Kaepernick pass complete short right to Mario Manningham for 3 yards (tackle by Patrick Robinson),0,0,0.43,-0.85
+1,11:24,4,1,SFO 38,Andy Lee punts 52 yards fair catch by Darren Sproles,0,0,-0.85,0.38
+1,9:27,1,10,SFO 38,Frank Gore left tackle for 2 yards (tackle by Will Smith and David Hawthorne),0,0,1.47,1.19
+1,8:45,2,8,SFO 40,Colin Kaepernick pass complete short right to Mario Manningham for 40 yards (tackle by Malcolm Jenkins),0,0,1.19,4.24
+1,8:10,1,10,NOR 20,Colin Kaepernick pass complete short right to Mario Manningham for 13 yards (tackle by Jabari Greer),0,0,4.24,5.6
+1,7:28,1,7,NOR 7,Colin Kaepernick left end for 7 yards touchdown,6,0,5.6,7
+1,7:28,,,,David Akers kicks extra point good,7,0,0,0
+1,7:21,,,SFO 35,David Akers kicks off 70 yards returned by Travaris Cadet for 26 yards (tackle by Delanie Walker),7,0,0,0.34
+1,1:40,1,10,SFO 26,Colin Kaepernick left end for 3 yards (tackle by Cameron Jordan),7,7,0.67,0.54
+1,1:12,2,7,SFO 29,Colin Kaepernick pass complete short right to Vernon Davis for 9 yards (tackle by Cameron Jordan). Penalty on Jonathan Goodwin: Offensive Holding 10 yards (no play),7,7,0.54,-0.87
+1,0:44,2,17,SFO 19,Colin Kaepernick pass complete short right to Bruce Miller for 26 yards (tackle by Curtis Lofton and Roman Harper),7,7,-0.87,1.93
+Quarter,Time,Down,ToGo,Location,Detail,SFO,NOR,EPB,EPA
+,,,,,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,SFO 45,Colin Kaepernick right end for 1 yard (tackle by Cameron Jordan),7,7,1.93,1.52
+2,14:18,2,9,SFO 46,Colin Kaepernick pass incomplete short right intended for Frank Gore,7,7,1.52,0.83
+2,14:18,3,9,SFO 46,Penalty on SFO: Delay of Game 5 yards (no play),7,7,0.83,0.17
+2,14:12,3,14,SFO 41,Colin Kaepernick pass incomplete deep left intended for Michael Crabtree,7,7,0.17,-0.65
+2,14:04,4,14,SFO 41,Andy Lee punts 59 yards touchback,7,7,-0.65,-0.28
+2,7:53,1,10,SFO 20,Frank Gore left guard for 4 yards (tackle by Cameron Jordan),7,14,0.28,0.27
+2,7:17,2,6,SFO 24,Colin Kaepernick pass incomplete short left intended for Vernon Davis,7,14,0.27,-0.43
+2,7:12,3,6,SFO 24,Colin Kaepernick up the middle for 15 yards (tackle by Malcolm Jenkins),7,14,-0.43,1.53
+2,6:27,1,10,SFO 39,Colin Kaepernick pass complete short right to Delanie Walker for 11 yards (tackle by Malcolm Jenkins and Tom Johnson),7,14,1.53,2.26
+2,5:53,1,10,50,Colin Kaepernick pass complete short right to Michael Crabtree for 36 yards (tackle by Roman Harper). Penalty on Anthony Davis: Offensive Holding 10 yards (no play),7,14,2.26,1.6
+2,5:19,1,20,SFO 40,Kendall Hunter left tackle for 1 yard (tackle by Will Smith),7,14,1.6,0.5
+2,4:37,2,19,SFO 41,Colin Kaepernick pass incomplete (defended by Turk McBride),7,14,0.5,-0.16
+2,4:31,3,19,SFO 41,Colin Kaepernick pass complete short right to Frank Gore for 12 yards (tackle by Isa Abdul-Quddus),7,14,-0.16,0.13
+2,3:46,4,7,NOR 47,Andy Lee punts 36 yards fair catch by Darren Sproles,7,14,0.13,0.37
+2,1:53,1,10,SFO 27,Colin Kaepernick pass complete short left to Mario Manningham for 7 yards (tackle by Curtis Lofton and Patrick Robinson),7,14,0.74,1.14
+2,1:46,2,3,SFO 34,Colin Kaepernick left tackle for 1 yard (tackle by Will Smith),7,14,1.14,0.56
+2,1:11,3,2,SFO 35,Frank Gore right tackle for 4 yards (tackle by Isa Abdul-Quddus and Will Smith),7,14,0.56,1.53
+2,0:43,1,10,SFO 39,Colin Kaepernick pass incomplete deep left intended for Kyle Williams is intercepted by Patrick Robinson at NOR-44,7,14,1.53,-1.86
+2,,,,,David Akers kicks extra point good,14,14,0,0
+2,0:22,,,SFO 35,David Akers kicks off 70 yards returned by Travaris Cadet for 23 yards (tackle by Tavares Gooden),14,14,0,0.04
+,,,,,End of Half,14,14,-0.65,0
+Quarter,Time,Down,ToGo,Location,Detail,SFO,NOR,EPB,EPA
+,,,,,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,1,10,SFO 20,Frank Gore left tackle for 4 yards (tackle by Will Smith and David Hawthorne),14,14,0.28,0.27
+3,14:19,2,6,SFO 24,Frank Gore left tackle for 4 yards (tackle by Sedrick Ellis),14,14,0.27,0.1
+3,13:40,3,2,SFO 28,Colin Kaepernick pass complete deep left to Delanie Walker for 45 yards (tackle by Malcolm Jenkins),14,14,0.1,3.78
+3,13:10,1,10,NOR 27,Colin Kaepernick pass incomplete short right intended for Michael Crabtree (defended by Patrick Robinson),14,14,3.78,3.23
+3,13:06,2,10,NOR 27,Kendall Hunter left end for 21 yards (tackle by Jabari Greer),14,14,3.23,5.83
+3,12:24,1,6,NOR 6,Colin Kaepernick pass complete short right to Frank Gore for 6 yards touchdown,20,14,5.83,7
+3,12:24,,,,David Akers kicks extra point good,21,14,0,0
+3,12:17,,,SFO 35,David Akers kicks off 71 yards returned by Travaris Cadet for 36 yards (tackle by Perrish Cox),21,14,0,0.94
+3,,,,,David Akers kicks extra point good,28,14,0,0
+3,11:30,,,SFO 35,David Akers kicks off 67 yards touchback,28,14,0,0.28
+3,7:19,1,10,SFO 20,Colin Kaepernick pass complete short middle to Michael Crabtree for 6 yards (tackle by David Hawthorne),28,21,0.28,0.54
+3,6:39,2,4,SFO 26,Brandon Jacobs right tackle for 2 yards (tackle by Malcolm Jenkins). Penalty on Leonard Davis: Offensive Holding 10 yards (no play),28,21,0.54,-0.94
+3,6:14,2,14,SFO 16,Colin Kaepernick pass incomplete short left intended for Kendall Hunter,28,21,-0.94,-1.69
+3,6:09,3,14,SFO 16,Penalty on SFO: Delay of Game 5 yards (no play),28,21,-1.69,-2.47
+3,6:03,3,19,SFO 11,Frank Gore left guard for 11 yards (tackle by Roman Harper and Curtis Lofton),28,21,-2.47,-1.9
+3,5:23,4,8,SFO 22,Andy Lee punts 40 yards returned by Darren Sproles for 3 yards (tackle by C.J. Spillman),28,21,-1.9,-1.66
+3,2:18,1,10,SFO 6,Frank Gore right guard for 2 yards (tackle by Cameron Jordan),28,21,-0.38,-0.63
+3,1:40,2,8,SFO 8,Colin Kaepernick pass complete short right to Michael Crabtree for 15 yards (tackle by Roman Harper and Jabari Greer),28,21,-0.63,0.48
+3,1:04,1,10,SFO 23,Kendall Hunter left end for 2 yards (tackle by Jonathan Vilma and Brodrick Bunkley),28,21,0.48,0.2
+3,0:37,2,8,SFO 25,Colin Kaepernick pass complete short right to Mario Manningham for 6 yards (tackle by Jabari Greer),28,21,0.2,0.3
+Quarter,Time,Down,ToGo,Location,Detail,SFO,NOR,EPB,EPA
+,,,,,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,3,2,SFO 31,Colin Kaepernick pass complete short left to Michael Crabtree for 5 yards (tackle by Curtis Lofton),28,21,0.3,1.33
+4,14:23,1,10,SFO 36,Frank Gore right tackle for -1 yards (tackle by Cameron Jordan and Sedrick Ellis),28,21,1.33,0.66
+4,13:45,2,11,SFO 35,Colin Kaepernick left end for no gain (tackle by Roman Harper),28,21,0.66,-0.03
+4,13:00,3,11,SFO 35,Colin Kaepernick pass complete deep middle to Delanie Walker for 25 yards (tackle by Isa Abdul-Quddus),28,21,-0.03,2.92
+4,12:38,1,10,NOR 40,Colin Kaepernick pass complete short right to Bruce Miller for 2 yards (tackle by Jonathan Vilma),28,21,2.92,2.64
+4,12:01,2,8,NOR 38,Anthony Dixon left end for 5 yards (tackle by Malcolm Jenkins),28,21,2.64,2.61
+4,11:17,3,3,NOR 33,Colin Kaepernick pass complete short right to Bruce Miller for 9 yards (tackle by David Hawthorne and Tom Johnson),28,21,2.61,3.97
+4,10:32,1,10,NOR 24,Frank Gore left end for 14 yards (tackle by Roman Harper and Jabari Greer),28,21,3.97,4.91
+4,9:50,1,10,NOR 10,Penalty on SFO: False Start 5 yards (no play),28,21,4.91,4.37
+4,9:23,1,15,NOR 15,Frank Gore left guard for 10 yards (tackle by Curtis Lofton and Tom Johnson),28,21,4.37,5.15
+4,8:38,2,5,NOR 5,Colin Kaepernick pass incomplete short right intended for Randy Moss (defended by Malcolm Jenkins),28,21,5.15,4.26
+4,8:34,3,5,NOR 5,Frank Gore left tackle for -4 yards (tackle by Curtis Lofton),28,21,4.26,2.83
+4,7:53,4,9,NOR 9,David Akers 27 yard field goal good,31,21,2.83,3
+4,7:50,,,SFO 35,David Akers kicks off 74 yards returned by Travaris Cadet for 32 yards (tackle by Tramaine Brock),31,21,0,0.48
+4,5:06,1,10,NOR 36,Frank Gore left tackle for -1 yards (tackle by Roman Harper),31,21,3.18,2.5
+4,5:00,2,11,NOR 37,Frank Gore left end for 5 yards (tackle by Curtis Lofton),31,21,2.5,2.48
+4,4:53,3,6,NOR 32,Colin Kaepernick pass incomplete,31,21,2.48,1.25
+4,4:47,4,6,NOR 32,David Akers 50 yard field goal no good,31,21,1.25,-1.6
+4,3:58,1,10,NOR 45,Frank Gore right end for 11 yards (tackle by Malcolm Jenkins and Sedrick Ellis),31,21,2.59,3.31
+4,3:49,1,10,NOR 34,Frank Gore left guard for 5 yards (tackle by David Hawthorne and Sedrick Ellis),31,21,3.31,3.45
+4,3:08,2,5,NOR 29,Frank Gore left tackle for 5 yards (tackle by Will Smith and Akiem Hicks). Penalty on Curtis Lofton: Face Mask (15 Yards) 12 yards,31,21,3.45,4.78
+4,2:57,1,10,NOR 12,Frank Gore left tackle for 2 yards (tackle by Curtis Lofton),31,21,4.78,4.45
+4,2:20,2,8,NOR 10,Frank Gore left tackle for 10 yards. Penalty on Mike Iupati: Offensive Holding 10 yards (no play),31,21,4.45,3.14
+4,2:14,2,18,NOR 20,Brandon Jacobs left tackle for 1 yard (tackle by Jonathan Vilma),31,21,3.14,2.61
+4,2:00,3,17,NOR 19,Frank Gore right tackle for 4 yards (tackle by David Hawthorne and Curtis Lofton),31,21,2.61,2.44
+4,1:13,4,13,NOR 15,David Akers 33 yard field goal no good blocked by Malcolm Jenkins recovered by Malcolm Jenkins. Penalty on Brodrick Bunkley: Personal Foul 11 yards,31,21,2.44,0.37
+,,,,,End of Regulation,31,21,2.44,0
+Quarter,Time,Down,ToGo,Location,Detail,SFO,RAM,EPB,EPA
+,,,,,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+1,15:00,,,SFO 35,David Akers kicks off 73 yards touchback,0,0,0,0.28
+1,12:28,1,10,SFO 25,Colin Kaepernick pass incomplete short right intended for Frank Gore,0,0,0.61,0.06
+1,12:23,2,10,SFO 25,Frank Gore left guard for 4 yards (tackle by James Laurinaitis),0,0,0.06,-0.1
+1,11:41,3,6,SFO 29,Colin Kaepernick for 2 yards (tackle by James Laurinaitis),0,0,-0.1,-1.31
+1,11:18,4,4,SFO 31,Andy Lee punts 61 yards returned by Austin Pettis for 2 yards (tackle by C.J. Spillman). Penalty on Janoris Jenkins: Offensive Holding 5 yards,0,0,-1.31,0.38
+1,9:31,1,10,SFO 40,Frank Gore left tackle for 23 yards (tackle by Craig Dahl),0,0,1.6,3.12
+1,8:46,1,10,RAM 37,Colin Kaepernick sacked by Jo-Lonn Dunbar and William Hayes for -7 yards,0,0,3.12,1.63
+1,8:08,2,17,RAM 44,Colin Kaepernick pass complete short left to Bruce Miller for 11 yards (tackle by Jo-Lonn Dunbar),0,0,1.63,2.41
+1,7:26,3,6,RAM 33,Colin Kaepernick for 7 yards (tackle by Jo-Lonn Dunbar),0,0,2.41,3.84
+1,6:54,1,10,RAM 26,Frank Gore left tackle for 7 yards (tackle by Quintin Mikell),0,0,3.84,4.27
+1,6:19,2,3,RAM 19,Frank Gore right guard for 2 yards (tackle by Jermelle Cudjo),0,0,4.27,3.95
+1,5:34,3,1,RAM 17,Brandon Jacobs right guard for 3 yards (tackle by Jermelle Cudjo),0,0,3.95,4.65
+1,4:53,1,10,RAM 14,Colin Kaepernick pass complete short left to Bruce Miller for 6 yards (tackle by Jo-Lonn Dunbar),0,0,4.65,5.09
+1,4:18,2,4,RAM 8,Frank Gore right guard for no gain (tackle by Quintin Mikell),0,0,5.09,4.28
+1,3:40,3,4,RAM 8,Colin Kaepernick pass complete short left to Mario Manningham for 7 yards (tackle by Janoris Jenkins and Craig Dahl),0,0,4.28,6.97
+1,3:01,1,1,RAM 1,Frank Gore right guard for 1 yard touchdown,6,0,6.97,7
+1,3:01,,,,David Akers kicks extra point good,7,0,0,0
+1,2:58,,,SFO 35,David Akers kicks off 74 yards touchback,7,0,0,0.28
+1,1:22,1,10,SFO 40,Brandon Jacobs left tackle for 2 yards (tackle by Kendall Langford),7,0,1.6,1.32
+1,0:45,2,8,SFO 42,Colin Kaepernick pass complete short right to Randy Moss for 16 yards (tackle by Cortland Finnegan),7,0,1.32,2.79
+Quarter,Time,Down,ToGo,Location,Detail,SFO,RAM,EPB,EPA
+,,,,,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,1,10,RAM 42,Frank Gore up the middle for 16 yards (tackle by Cortland Finnegan). Penalty on Joe Staley: Offensive Holding 10 yards (no play),7,0,2.79,2.13
+2,14:26,1,20,SFO 48,Colin Kaepernick pass complete short middle to Michael Crabtree for 5 yards (tackle by Rocky McIntosh),7,0,2.13,1.57
+2,13:45,2,15,RAM 47,Colin Kaepernick pass complete short right to Mario Manningham for 5 yards (tackle by Jo-Lonn Dunbar),7,0,1.57,1.55
+2,13:03,3,10,RAM 42,Colin Kaepernick for 1 yard (tackle by James Laurinaitis),7,0,1.55,0.53
+2,12:32,4,9,RAM 41,Andy Lee punts 31 yards fair catch by Austin Pettis,7,0,0.53,0.38
+2,8:55,1,10,SFO 24,Colin Kaepernick pass complete short left to Vernon Davis for 6 yards (tackle by Rocky McIntosh),7,0,0.54,0.81
+2,8:11,2,4,SFO 30,Frank Gore left end for 1 yard (tackle by James Laurinaitis),7,0,0.81,0.23
+2,7:26,3,3,SFO 31,Colin Kaepernick pass complete short left to Delanie Walker for 7 yards (tackle by Janoris Jenkins),7,0,0.23,1.47
+2,6:45,1,10,SFO 38,Colin Kaepernick pass complete short right to Michael Crabtree for 11 yards (tackle by Jo-Lonn Dunbar and Cortland Finnegan),7,0,1.47,2.19
+2,6:02,1,10,SFO 49,Frank Gore left tackle for 2 yards (tackle by James Laurinaitis),7,0,2.19,1.92
+2,5:25,2,8,RAM 49,Frank Gore right end for -3 yards (tackle by William Hayes),7,0,1.92,0.83
+2,4:37,3,11,SFO 48,Colin Kaepernick pass incomplete short right intended for Michael Crabtree,7,0,0.83,-0.19
+2,4:33,4,11,SFO 48,Penalty on C.J. Spillman: False Start 5 yards (no play),7,0,-0.19,-0.52
+2,4:33,4,16,SFO 43,Andy Lee punts 53 yards returned by Austin Pettis for 14 yards (tackle by Michael Wilhoite),7,0,-0.52,-0.04
+2,2:16,1,10,SFO 39,Colin Kaepernick pass incomplete short right intended for Michael Crabtree,7,0,1.53,0.99
+2,2:10,2,10,SFO 39,Frank Gore up the middle for 3 yards (tackle by Jermelle Cudjo),7,0,0.99,0.7
+2,2:00,3,7,SFO 42,Colin Kaepernick pass incomplete short right intended for Mario Manningham,7,0,0.7,-0.59
+2,1:54,4,7,SFO 42,Andy Lee punts 50 yards returned by Austin Pettis for 5 yards (tackle by Tramaine Brock),7,0,-0.59,0.32
+2,0:25,1,10,SFO 48,Colin Kaepernick pass complete short right to Ted Ginn Jr. for 1 yard (tackle by Trumaine Johnson),7,0,2.13,1.72
+2,0:21,2,9,SFO 49,Colin Kaepernick sacked by Eugene Sims for -9 yards,7,0,1.72,-0.16
+2,0:12,3,18,SFO 40,Colin Kaepernick sacked by William Hayes for -1 yards,7,0,-0.16,-0.78
+2,0:02,4,19,SFO 39,Colin Kaepernick pass incomplete deep left intended for Randy Moss,7,0,-0.78,-1.53
+,,,,,End of Half,7,0,-1.53,0
+Quarter,Time,Down,ToGo,Location,Detail,SFO,RAM,EPB,EPA
+,,,,,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,1,10,SFO 20,Colin Kaepernick right end for 6 yards (tackle by Rocky McIntosh),7,0,0.28,0.54
+3,14:19,2,4,SFO 26,Frank Gore left end for 1 yard (tackle by Chris Long),7,0,0.54,-0.03
+3,13:34,3,3,SFO 27,Colin Kaepernick pass incomplete short right intended for Michael Crabtree,7,0,-0.03,-1.57
+3,13:28,4,3,SFO 27,Andy Lee punts 51 yards fair catch by Austin Pettis,7,0,-1.57,-0.41
+3,6:45,1,10,SFO 4,Frank Gore up the middle for no gain (tackle by James Laurinaitis),7,0,-0.38,-0.78
+3,6:06,2,10,SFO 4,Frank Gore left guard for -1 yards (tackle by Michael Brockers),7,0,-0.78,-1.54
+3,5:23,3,11,SFO 3,Colin Kaepernick pass complete short left to Mario Manningham for 14 yards (tackle by Craig Dahl),7,0,-1.54,-0.06
+3,4:36,1,10,SFO 17,Colin Kaepernick pass incomplete safety. Penalty on Colin Kaepernick: Intentional Grounding 17 yards,7,2,-0.06,-2
+3,4:27,,,SFO 20,Andy Lee kicks off 63 yards returned by Austin Pettis for 13 yards (tackle by Will Tukuafu),7,2,0,0.94
+3,1:56,1,10,SFO 1,Bruce Miller right guard for 4 yards (tackle by Cortland Finnegan). Penalty on Mike Iupati: Offensive Holding (no play),7,2,-0.38,-0.38
+3,1:26,1,10,SFO 1,Colin Kaepernick pass complete short left to Michael Crabtree for 10 yards (tackle by Janoris Jenkins),7,2,-0.38,-0.37
+3,0:43,1,10,SFO 11,Frank Gore up the middle for 6 yards (tackle by James Laurinaitis). Penalty on Will Tukuafu: Illegal Motion 5 yards (no play),7,2,-0.37,-0.57
+3,0:16,1,15,SFO 6,Colin Kaepernick pass complete short left to Michael Crabtree for 22 yards (tackle by Cortland Finnegan),7,2,-0.57,0.81
+Quarter,Time,Down,ToGo,Location,Detail,SFO,RAM,EPB,EPA
+,,,,,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,SFO 28,Frank Gore left tackle for 2 yards (tackle by Kendall Langford),7,2,0.81,0.53
+4,14:18,2,8,SFO 30,Colin Kaepernick pass incomplete deep right intended for Delanie Walker (defended by Quintin Mikell). Penalty on Robert Quinn: Roughing the Passer 15 yards (no play),7,2,0.53,1.93
+4,14:10,1,10,SFO 45,Frank Gore up the middle for no gain (tackle by Jermelle Cudjo),7,2,1.93,1.38
+4,13:29,2,10,SFO 45,Frank Gore right end for 2 yards (tackle by Rocky McIntosh),7,2,1.38,0.96
+4,12:47,3,8,SFO 47,Colin Kaepernick pass complete deep left to Michael Crabtree for 30 yards (tackle by Quintin Mikell). Penalty on Robert Quinn: Neutral Zone Infraction (Declined),7,2,0.96,4.04
+4,12:16,1,10,RAM 23,Colin Kaepernick pass complete short right to Michael Crabtree for 7 yards (tackle by Cortland Finnegan),7,2,4.04,4.56
+4,11:34,2,3,RAM 16,Colin Kaepernick pass incomplete short left intended for Vernon Davis,7,2,4.56,3.85
+4,11:27,3,3,RAM 16,Colin Kaepernick pass complete short left to Mario Manningham for 7 yards (tackle by Jo-Lonn Dunbar),7,2,3.85,5.14
+4,10:53,1,9,RAM 9,Frank Gore right tackle for -1 yards (tackle by Jo-Lonn Dunbar),7,2,5.14,4.19
+4,10:14,2,10,RAM 10,Colin Kaepernick up the middle for 1 yard (tackle by Eugene Sims),7,2,4.19,3.36
+4,9:26,3,9,RAM 9,Colin Kaepernick pass complete short right to Mario Manningham for 4 yards (tackle by Jo-Lonn Dunbar),7,2,3.36,3.01
+4,8:47,4,5,RAM 5,David Akers 23 yard field goal good,10,2,3.01,3
+4,8:43,,,SFO 35,David Akers kicks off 68 yards returned by Chris Givens for 22 yards (tackle by Darcel McBath),10,2,0,0.15
+4,4:41,1,10,SFO 10,Brandon Jacobs left tackle for no gain (tackle by Michael Brockers),10,2,-0.38,-0.78
+4,3:54,2,10,SFO 10,Colin Kaepernick right end for 7 yards (tackle by Rocky McIntosh),10,2,-0.78,-0.6
+4,3:11,3,3,SFO 17,Colin Kaepernick for no gain. Colin Kaepernick fumbles recovered by Janoris Jenkins at SFO-2 and returned for 2 yards touchdown,10,8,-0.6,-7
+4,3:04,1,10,SFO 20,Colin Kaepernick pass complete short right to Michael Crabtree for 16 yards (tackle by Quintin Mikell),10,10,0.28,1.33
+4,2:28,1,10,SFO 36,Colin Kaepernick right end for 50 yards (tackle by Janoris Jenkins),10,10,1.33,4.65
+4,2:00,1,10,RAM 14,Colin Kaepernick pass incomplete short right intended for Delanie Walker,10,10,4.65,4
+4,1:54,2,10,RAM 14,Frank Gore left tackle for 2 yards. Penalty on Delanie Walker: Offensive Holding 10 yards (no play),10,10,4,2.74
+4,1:47,2,20,RAM 24,Frank Gore right guard for -1 yards (tackle by Jo-Lonn Dunbar),10,10,2.74,1.95
+4,1:44,3,21,RAM 25,Colin Kaepernick for 10 yards (tackle by Quintin Mikell),10,10,1.95,2.44
+4,1:38,4,11,RAM 15,David Akers 33 yard field goal good,13,10,2.44,3
+4,1:34,,,SFO 35,David Akers kicks off 73 yards touchback,13,10,0,0.28
+,,,,,End of Regulation,13,13,0,0
+Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime,Overtime
+Quarter,Time,Down,ToGo,Location,Detail,SFO,RAM,EPB,EPA
+OT,15:00,,,SFO 35,David Akers kicks off 65 yards touchback,13,13,0,0.28
+OT,12:00,1,10,SFO 20,Colin Kaepernick pass complete short left to Vernon Davis for 9 yards (tackle by Michael Brockers),13,13,0.28,0.95
+OT,11:31,2,1,SFO 29,Frank Gore right tackle for 6 yards (tackle by Craig Dahl),13,13,0.95,1.27
+OT,10:51,1,10,SFO 35,Colin Kaepernick pass incomplete deep left intended for Vernon Davis. Penalty on Daniel Kilgore: Offensive Holding 10 yards (no play),13,13,1.27,0.61
+OT,10:44,1,20,SFO 25,Colin Kaepernick pass incomplete short left intended for Randy Moss,13,13,0.61,-0.63
+OT,10:41,2,20,SFO 25,Frank Gore right tackle for 1 yard (tackle by Jo-Lonn Dunbar),13,13,-0.63,-1.15
+OT,10:04,3,19,SFO 26,Colin Kaepernick pass complete short left to Randy Moss for 7 yards (tackle by James Laurinaitis),13,13,-1.15,-1.18
+OT,9:30,4,12,SFO 33,Penalty on Tramaine Brock: False Start 5 yards (no play),13,13,-1.18,-1.5
+OT,9:20,4,17,SFO 28,Andy Lee punts 60 yards returned by Austin Pettis for 15 yards (tackle by Brian Jennings),13,13,-1.5,-0.74
+OT,7:29,1,10,50,Frank Gore up the middle for 5 yards (tackle by James Laurinaitis),13,13,2.26,2.39
+OT,6:58,2,5,RAM 45,Brandon Jacobs right guard for 1 yard (tackle by Rocky McIntosh),13,13,2.39,1.82
+OT,6:14,3,4,RAM 44,Colin Kaepernick pass complete short left to Randy Moss for 7 yards (tackle by Janoris Jenkins),13,13,1.82,3.12
+OT,5:42,1,10,RAM 37,Frank Gore right tackle for 2 yards (tackle by James Laurinaitis),13,13,3.12,2.84
+OT,5:06,2,8,RAM 35,Frank Gore right guard for 2 yards (tackle by James Laurinaitis),13,13,2.84,2.41
+OT,4:21,3,6,RAM 33,Colin Kaepernick pass incomplete short left intended for Michael Crabtree,13,13,2.41,1.16
+OT,4:16,4,6,RAM 33,David Akers 51 yard field goal no good,13,13,1.16,-1.66
+,,,,,End of Overtime,13,16,0,0
+
+
+
+
